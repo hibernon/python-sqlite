@@ -3,9 +3,6 @@ __pycache__/
 *.py[codz]
 *$py.class
 
-# Ignorar o arquivo de licença específico
-LICENSE.mit
-
 # C extensions
 *.so
 
